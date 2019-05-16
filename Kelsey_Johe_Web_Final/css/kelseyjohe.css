@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa|Modak|Abril+Fatface|Raleway|Bungee+Shade|Montserrat');
+
+<i class="fab fa-instagram" > </i > html {
+
+    background-color: #00a86b;
+}
+
+<i class="fas fa-envelope-open-text" > </i > {
+    background-color: #00a86b;
+
+}
+
+body {
+    background-image: radial-gradient(white 20%, #ccccff 50%, #33cccc);
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: 'Montserrat';
+
+}
+
+.firstword {
+    font-size: 30px;
+}
+
+.container {
+
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    border: double 20px white;
+    padding: 30px;
+    box-shadow: -5px 10px 20px #888888;
+}
+
+
+a {
+    font-size: 12pt;
+    color: hotpink;
+    text-decoration: none;
+}
+
+a:hover {
+    color: honeydew;
+}
+
+h1 {
+    font-family: 'Raleway';
+    font-size: 50px;
+    color: indianred;
+    letter-spacing: 25px;
+    border-bottom: 5px lightblue;
+    text-transform: uppercase;
+}
+
+.fa-instagram {
+
+    font-size: 30px;
+    font-size: 30pt;
+    transition: font-size 1s;
+
+}
+
+.fab {
+    color: hotpink;
+
+}
+
+.fab:hover {
+
+    color: pink;
+
+}
+
+
+.fa-instagram:hover {
+    font-size: 40pt;
+}
+
+
+.fa-envelope-open-text {
+    font-size: 25pt;
+    transition: font-size 1s;
+}
+
+.fas {
+    color: hotpink;
+
+}
+
+.fas:hover {
+
+    color: pink;
+
+}
+
+
+.fa-envelope-open-text:hover {
+    font-size: 40pt;
+}
+
+
+p {
+    font-size: 15px;
+    font-family: 'Montserrat', cursive;
+    line-height: 14pt;
+    /*
+    color: darkmagenta;
+    background-color: #ffafaf;
+    border: solid;
+    padding: 20px;
+
+  */
+}
